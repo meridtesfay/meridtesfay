@@ -15,4 +15,4 @@ Currently seeking PhD and research engineer roles in AI/ML across Europe.
 3+ years as Network/Security Engineer at INSA (Ethiopia's national cybersecurity agency) before transitioning to AI research.
 
 📍 Trento, Italy
-📧 [meridtesfay@gmail.com] · [linkedin.com/in/merid-tesfay-9634a9103] · [portfolio]
+📧 [meridtesfay@gmail.com] · [![Linkedin](https://linkedin.com/in/merid-tesfay-9634a9103)] · [![portfolio](https://meridtesfay.github.io)] 
